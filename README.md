@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**aloisio13-dev/aloisio13-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aloisio13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
